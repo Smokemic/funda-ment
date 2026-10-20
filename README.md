@@ -40,3 +40,5 @@ Da alles lokal läuft, brauchst du genug VRAM (Grafikkartenspeicher).
    ```bash
    git clone https://github.com/DEIN-NAME/funda-ment.git
    cd funda-ment
+   
+   Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die Datei [LICENSE](LICENSE) für Details.
