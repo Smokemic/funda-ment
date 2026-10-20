@@ -1,0 +1,8 @@
+01_Quellen/ 
+02_Datenbank/ 
+03_Logs/ 
+venv/ 
+__pycache__/ 
+*.pyc 
+config.yaml 
+.env
