@@ -4,7 +4,8 @@ Ein lokaler, privater KI-Begleiter für Menschen, die mit einer Krebsdiagnose ko
 
 Dieses Repository enthält den **Code (Bausatz)**, um Funda-Ment auf dem eigenen Rechner nachzubauen. Es ist als Open-Source-Bildungsprojekt gedacht.
 
-> ⚠️ **WICHTIGER HINWEIS:** Funda-Ment ist ein rein informatives Recherche-Tool. Es stellt **keine Diagnosen**, gibt **keine Therapieempfehlungen** und ersetzt **keinen Arztbesuch**. Die Nutzung erfolgt auf eigene Verantwortung. Bitte kläre alle medizinischen Fragen mit deinem Ärzteteam oder dem Krebsinformationsdienst.
+> ⚠️ **WICHTIGER HINWEIS:** Funda-Ment ist ein rein informatives Recherche-Tool, ein Projekt das enstanden ist als ich meine Schwester Funda an Krebs verloren habe. 
+Es stellt **keine Diagnosen**, gibt **keine Therapieempfehlungen** und ersetzt **keinen Arztbesuch**. Die Nutzung erfolgt auf eigene Verantwortung. Bitte kläre alle medizinischen Fragen mit deinem Ärzteteam oder dem Krebsinformationsdienst.
 
 ---
 
