@@ -33,11 +33,11 @@ Ein öffentlicher Betrieb wäre aus mehreren Gründen problematisch gewesen:
 
 ---
 
-### **📂 Projektstruktur**
+## 📂 Projektstruktur
 
 Das Repository ist wie folgt aufgebaut:
-text
 
+```text
 funda-ment/
 ├── 01_Quellen/              # Deine PDFs und Quelldateien (anfangs leer)
 ├── 02_Datenbank/            # Die lokale Vektordatenbank (wird automatisch befüllt)
