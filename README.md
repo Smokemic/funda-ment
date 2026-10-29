@@ -1,4 +1,4 @@
-\<h1 align="center" style="font-size: 4em; margin-bottom: 0;">Funda-Ment\</h1>\<p align="center"> \<strong style="font-size: 1.3em;">In liebevoller Erinnerung an Funda 🤍\</strong> \</p>\<p align="center"> Ein lokales, datenschutzfreundliches RAG-System (Retrieval-Augmented Generation) für krebsbezogene Informationen. \</p>
+<h1 align="center">Funda-Ment</h1><p align="center"> <strong>In liebevoller Erinnerung an Funda 🤍</strong> </p><p align="center"> Ein lokales, datenschutzfreundliches RAG-System (Retrieval-Augmented Generation) für krebsbezogene Informationen. </p>
 
 ---
 
@@ -112,7 +112,10 @@ cd funda-ment
 
 Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe die Datei LICENSE für Details.
 
-\<p align="center"> Mit Hilfe von DeepSeek gebaut 🤍 \</p>\<br> \<p align="center">🤍\</p> \<br>\<h1 align="center" style="font-size: 4em; margin-bottom: 0;">Funda-Ment (English)\</h1>\<p align="center"> \<strong style="font-size: 1.3em;">In loving memory of Funda 🤍\</strong> \</p>\<p align="center"> A local, privacy-focused RAG system (Retrieval-Augmented Generation) for cancer-related information. \</p>
+<p align="center"> Mit Hilfe von DeepSeek gebaut 🤍 </p>
+
+
+<h1 align="center">Funda-Ment (English)</h1><p align="center"> <strong>In loving memory of Funda 🤍</strong> </p><p align="center"> A local, privacy-focused RAG system (Retrieval-Augmented Generation) for cancer-related information. </p>
 
 ---
 
@@ -232,4 +235,4 @@ cd funda-ment
 
 This project is licensed under the MIT License – see the [LICENSE](https://license/) file for details.
 
-\<p align="center"> Built with the help of DeepSeek 🤍 \</p>
+<p align="center"> Built with the help of DeepSeek 🤍 </p>
