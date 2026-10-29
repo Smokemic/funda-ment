@@ -106,9 +106,10 @@ Da alles lokal läuft, brauchst du genug VRAM (Grafikkartenspeicher).
 1. **Repository klonen**\
    Führe diese Befehle in deinem Terminal aus:
 
-git clone <https://github.com/DEIN-NAME/funda-ment.git>
+```bash
+git clone https://github.com/DEIN-NAME/funda-ment.git
+cd funda-ment```
 
-cd funda-ment
 
 Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe die Datei LICENSE für Details.
 
@@ -235,9 +236,9 @@ Since everything runs locally, you need enough VRAM (graphics card memory).
 1. **Clone the repository**\
    Führe diese Befehle in deinem Terminal aus:
 
-git clone <https://github.com/YOUR-NAME/funda-ment.git>
-
-cd funda-ment
+```bash
+git clone https://github.com/DEIN-NAME/funda-ment.git
+cd funda-ment```
 
 This project is licensed under the MIT License – see the [LICENSE](https://license/) file for details.
 
