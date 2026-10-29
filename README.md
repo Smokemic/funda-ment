@@ -112,7 +112,9 @@ cd funda-ment
 
 Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe die Datei LICENSE für Details.
 
-<p align="center"> Mit Hilfe von DeepSeek gebaut 🤍 </p>
+<p> Mit Hilfe von DeepSeek gebaut 🤍 </p>
+
+
 
 
 ---
@@ -120,6 +122,8 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe die Datei LICENSE f
 <h1 align="center">Funda-Ment (English)</h1><p align="center"> <strong>In loving memory of Funda 🤍</strong> </p><p align="center"> A local, privacy-focused RAG system (Retrieval-Augmented Generation) for cancer-related information. </p>
 
 ---
+
+
 
 ### 💡 Why this project?
 
@@ -237,4 +241,4 @@ cd funda-ment
 
 This project is licensed under the MIT License – see the [LICENSE](https://license/) file for details.
 
-<p align="center"> Built with the help of DeepSeek 🤍 </p>
+<p> Built with the help of DeepSeek 🤍 </p>
