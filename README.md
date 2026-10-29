@@ -115,6 +115,8 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe die Datei LICENSE f
 <p align="center"> Mit Hilfe von DeepSeek gebaut 🤍 </p>
 
 
+---
+
 <h1 align="center">Funda-Ment (English)</h1><p align="center"> <strong>In loving memory of Funda 🤍</strong> </p><p align="center"> A local, privacy-focused RAG system (Retrieval-Augmented Generation) for cancer-related information. </p>
 
 ---
