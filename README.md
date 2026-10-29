@@ -110,6 +110,8 @@ Da alles lokal läuft, brauchst du genug VRAM (Grafikkartenspeicher).
    cd funda-ment
 
 
+
+
 Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe die Datei LICENSE für Details.
 
 <p> Mit Hilfe von DeepSeek gebaut 🤍 </p>
@@ -238,6 +240,10 @@ Since everything runs locally, you need enough VRAM (graphics card memory).
 
    git clone https://github.com/DEIN-NAME/funda-ment.git
    cd funda-ment
+
+
+
+   
 
 This project is licensed under the MIT License – see the [LICENSE](https://license/) file for details.
 
